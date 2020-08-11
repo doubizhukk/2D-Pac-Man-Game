@@ -2,10 +2,10 @@
 ## Overview
 A desktop version of the Pacman game. Coded using JAVA.   
    
-During the game, the player could manupulate the movement of Pacman by pressing arrow keys.   
-There are four ghosts trace, follow and attack Pacman.   
-Pacman's goal is to collect all the randomly distributed food, while avoiding ghosts coming from different directions.   
-If Pacman is attached by the ghost, game over.   
+* In this game, the player is able to manupulate the movement of Pacman by pressing arrow keys.   
+* There are four ghosts to trace, follow and attack Pacman.   
+* Pacman's goal is to collect all the randomly distributed food, while avoiding ghosts coming from different directions.   
+* The game would be over whenever the Pacman is attached by a ghost.   
 ## How to play
 1. Download jar file.   
 2. Ensure that you have IntelliJ installed and open file.
