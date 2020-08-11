@@ -3,13 +3,13 @@
 A desktop version of the Pacman game. Coded using JAVA.   
    
 During the game, the player could manupulate the movement of Pacman by pressing arrow keys.   
-There are three ghosts trace, follow and attack Pacman.   
+There are four ghosts trace, follow and attack Pacman.   
 Pacman's goal is to collect all the randomly distributed food, while avoiding ghosts coming from different directions.   
 If Pacman is attached by the ghost, game over.   
 ## How to play
 1. Download jar file.   
 2. Ensure that you have IntelliJ installed and open file.
-3. Play. (PRESS `UP` TO MOVE UP, PRESS `DOWN` TO MOVE down, PRESS `RIGHT` TO MOVE right, PRESS `LEFT` TO MOVE left).
+3. Play. (PRESS `UP` TO MOVE UP, PRESS `DOWN` TO MOVE DOWN, PRESS `RIGHT` TO MOVE RIGHT, PRESS `LEFT` TO MOVE LEFT).
 ## Preview
 ![image](https://github.com/doubizhukk/2D-Pac-Man-Game/blob/master/PacManTest.png)
    
