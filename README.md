@@ -15,5 +15,5 @@ A desktop version of the Pacman game. Coded using JAVA.
    
 ![img](https://github.com/doubizhukk/2D-Pac-Man-Game/blob/master/2D%20Pac%20Man%20Game.gif)
 ## Notes
-Keep track the game state, displays game state and react to user input.   
-Implemented general-purpose artificial intelligence alorithms for ghosts to trace, follow and attach Pacman.
+* Keep tracking the game state for display, meanwhile reacting to user's input.   
+* Implemented general-purpose artificial intelligence algorithms for ghosts to trace, follow and attach Pacman.
